@@ -119,3 +119,4 @@ Observations:
 * Analysis of impedance matching and return loss characteristics.
 * Interpretation of radiation patterns and antenna performance metrics.
 * Practical exposure to RF simulation workflows using HFSS.
+<img width="592" height="506" alt="image" src="https://github.com/user-attachments/assets/884b35c2-8ca1-4bc2-8e41-facd17a0e8b7" />
