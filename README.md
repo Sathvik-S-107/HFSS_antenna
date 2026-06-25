@@ -99,13 +99,13 @@ Observations:
 ## Repository Contents
 
 /images
+<img width="545" height="297" alt="image" src="https://github.com/user-attachments/assets/3ec11c9f-5a43-47f3-9e56-3a3afe572935" />
+<img width="542" height="427" alt="image" src="https://github.com/user-attachments/assets/69ee09a8-5c75-4024-9a02-5af1833bff83" />
+<img width="545" height="267" alt="image" src="https://github.com/user-attachments/assets/cb45b319-4b0c-42d5-a8a4-ba2c47bf3e18" />
+<img width="496" height="437" alt="image" src="https://github.com/user-attachments/assets/49630dd9-9eba-4a9d-859f-18d5132cda27" />
+<img width="487" height="436" alt="image" src="https://github.com/user-attachments/assets/0983591a-b1b7-4d2b-b587-12dc05a5bcf6" />
+<img width="592" height="506" alt="image" src="https://github.com/user-attachments/assets/884b35c2-8ca1-4bc2-8e41-facd17a0e8b7" />
 
-* Antenna Geometry
-* Simulated S11 Plot
-* Measured S11 Plot
-* E-Plane Radiation Pattern
-* H-Plane Radiation Pattern
-* RSSI Measurement Results
 
 /report
 
@@ -119,4 +119,3 @@ Observations:
 * Analysis of impedance matching and return loss characteristics.
 * Interpretation of radiation patterns and antenna performance metrics.
 * Practical exposure to RF simulation workflows using HFSS.
-<img width="592" height="506" alt="image" src="https://github.com/user-attachments/assets/884b35c2-8ca1-4bc2-8e41-facd17a0e8b7" />
