@@ -105,9 +105,6 @@ Observations:
 <img width="592" height="506" alt="image" src="https://github.com/user-attachments/assets/884b35c2-8ca1-4bc2-8e41-facd17a0e8b7" />
 
 
-/report
-
-* Project Report
 
 ---
 
