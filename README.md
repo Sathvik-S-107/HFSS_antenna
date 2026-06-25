@@ -97,8 +97,6 @@ Observations:
 ---
 
 ## Repository Contents
-
-/images
 <img width="545" height="297" alt="image" src="https://github.com/user-attachments/assets/3ec11c9f-5a43-47f3-9e56-3a3afe572935" />
 <img width="542" height="427" alt="image" src="https://github.com/user-attachments/assets/69ee09a8-5c75-4024-9a02-5af1833bff83" />
 <img width="545" height="267" alt="image" src="https://github.com/user-attachments/assets/cb45b319-4b0c-42d5-a8a4-ba2c47bf3e18" />
